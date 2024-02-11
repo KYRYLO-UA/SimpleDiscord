@@ -1,4 +1,4 @@
-# SimpleDiscord
+![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/282d8c82-a927-4d6c-89ab-31a212264ebf)# SimpleDiscord
 **SimpleDiscord** is a module that empowers developers to send messages, including text and embeds, directly to Discord channels, enhancing collaboration and productivity within Roblox Studio projects.
 
 ## Features
@@ -35,13 +35,13 @@ local Embed = SimpleDiscord.Embed:New()
 * **Download** [any release of SimpleDiscord](https://github.com/KYRYLO-UA/SimpleDiscord/tree/main) or [SimpleDiscord Model (v1.0)|attachment](upload://1yeGrq1p1s1VITBzZpH4EDNwcwI.rbxm)
 
 * **Place** this module script in **ReplicatedStorage**
-![image|155x47](upload://tV3XxUY3WcSA8z1b60okEPrnFuo.png)
+![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/aa05360f-4a94-4a8c-898d-ce03b5d51dd7)
 
 * **Create** new script in **ServerScriptService**
-![image|201x47](upload://wqHERKtuk6zizcBTCUUCUwH4T0O.png)
+![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/f6affdbf-c6a6-4bde-9858-3d9709d7f2d8)
 
 * **Open** your created script
-![image|339x62](upload://lo2TrdEuf8qwuVaELXNitI1VcEs.png)
+![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/d59b000a-4f47-4ddd-a588-04afff8aa0af)
 
 * **Write** this code:
 ```lua
@@ -64,8 +64,7 @@ Webhook:Send(Message)
 * **Run** game.
 
 * **Final!** You sent your first message to Discord from your Roblox game with **SimpleDiscord**.
-![image|340x202](upload://fUKP3Ul4uj5HgG14dF3nCTgVsBv.png)
-
+![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/fee81f7e-098b-436a-b4f0-10f7862fb7b5)
 
 ## Contributing
 * **Discord**: @kyrylo.
