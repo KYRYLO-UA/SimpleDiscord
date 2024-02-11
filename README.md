@@ -1,2 +1,2 @@
 # SimpleDiscord
-Fast and easy for creating Roblox and Discord webhooks.
+Fast and easy way for creating Roblox and Discord webhooks.
