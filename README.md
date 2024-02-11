@@ -2,11 +2,10 @@
 **SimpleDiscord** is a module that empowers developers to send messages, including text and embeds, directly to Discord channels, enhancing collaboration and productivity within Roblox Studio projects.
 
 ## Features
-[details="Simple Installation"]
-[spoiler]Do you think it's hard? Lol.[/spoiler]
-[/details]
+* **Simple Installation**:
+Do you think it's hard? Lol.
 
-[details="In-Built Proxies"]
+* **In-Built Proxies**:
 ```lua
 local WebhookUrl: string = "https://discord.com/api/webhooks/XXXXX/XXXXX"
 local WebhookProxy: string = SimpleDiscord.Proxies.Lewi
@@ -14,9 +13,8 @@ local Webhook = SimpleDiscord.Webhook:Register(WebhookUrl, WebhookProxy)
 
 Webhook:Send("Test Message with Proxy")
 ```
-[/details]
 
-[details="Easy Customisable Embeds"]
+* **Easy Customisable Embeds**:
 ```lua
 local Embed = SimpleDiscord.Embed:New()
 		:SetTitle("You title here", "https://your-link.here")
@@ -30,7 +28,6 @@ local Embed = SimpleDiscord.Embed:New()
 		:SetFooter("You footer text here", "https://your-image.here")
 		:SetTimestamp(SimpleDiscord.Timestamp.now())
 ```
-[/details]
 
 ## Documentation: [*soon*](https://github.com/KYRYLO-UA/SimpleDiscord/blob/main/README.md)
 
