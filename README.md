@@ -35,13 +35,13 @@ local Embed = SimpleDiscord.Embed:New()
 * **Download** [any release of SimpleDiscord](https://github.com/KYRYLO-UA/SimpleDiscord/tree/main) or [SimpleDiscord Model (v1.0)|attachment](upload://1yeGrq1p1s1VITBzZpH4EDNwcwI.rbxm)
 
 * **Place** this module script in **ReplicatedStorage**
-![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/aa05360f-4a94-4a8c-898d-ce03b5d51dd7)
+* ![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/aa05360f-4a94-4a8c-898d-ce03b5d51dd7)
 
 * **Create** new script in **ServerScriptService**
-![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/f6affdbf-c6a6-4bde-9858-3d9709d7f2d8)
+* ![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/f6affdbf-c6a6-4bde-9858-3d9709d7f2d8)
 
 * **Open** your created script
-![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/d59b000a-4f47-4ddd-a588-04afff8aa0af)
+* ![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/d59b000a-4f47-4ddd-a588-04afff8aa0af)
 
 * **Write** this code:
 ```lua
@@ -64,7 +64,7 @@ Webhook:Send(Message)
 * **Run** game.
 
 * **Final!** You sent your first message to Discord from your Roblox game with **SimpleDiscord**.
-![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/fee81f7e-098b-436a-b4f0-10f7862fb7b5)
+* ![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/fee81f7e-098b-436a-b4f0-10f7862fb7b5)
 
 ## Contributing
 * **Discord**: @kyrylo.
