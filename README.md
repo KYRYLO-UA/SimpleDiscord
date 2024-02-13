@@ -1,4 +1,4 @@
-![image](https://github.com/KYRYLO-UA/SimpleDiscord/assets/60113306/282d8c82-a927-4d6c-89ab-31a212264ebf)# SimpleDiscord
+# SimpleDiscord
 **SimpleDiscord** is a module that empowers developers to send messages, including text and embeds, directly to Discord channels, enhancing collaboration and productivity within Roblox Studio projects.
 
 ## Features
